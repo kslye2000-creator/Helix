@@ -1,7 +1,7 @@
 
 import React from 'react';
-import { Icons } from './Icons';
-import { Button } from './Button';
+import { Icons } from './Icons.tsx';
+import { Button } from './Button.tsx';
 
 export const Header: React.FC = () => {
   return (

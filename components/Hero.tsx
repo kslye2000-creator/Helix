@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Button } from './Button';
+import { Button } from './Button.tsx';
 
 export const Hero: React.FC = () => {
   return (

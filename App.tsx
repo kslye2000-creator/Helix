@@ -1,14 +1,14 @@
 
 import React from 'react';
-import { Header } from './components/Header';
-import { Hero } from './components/Hero';
-import { Section } from './components/Section';
-import { FeatureCard } from './components/FeatureCard';
-import { ListItem } from './components/ListItem';
-import { ComparisonTable } from './components/ComparisonTable';
-import { CallToAction } from './components/CallToAction';
-import { Footer } from './components/Footer';
-import { Icons } from './components/Icons';
+import { Header } from './components/Header.tsx';
+import { Hero } from './components/Hero.tsx';
+import { Section } from './components/Section.tsx';
+import { FeatureCard } from './components/FeatureCard.tsx';
+import { ListItem } from './components/ListItem.tsx';
+import { ComparisonTable } from './components/ComparisonTable.tsx';
+import { CallToAction } from './components/CallToAction.tsx';
+import { Footer } from './components/Footer.tsx';
+import { Icons } from './components/Icons.tsx';
 
 const App: React.FC = () => {
   return (
